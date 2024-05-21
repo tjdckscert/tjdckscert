@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/SLACK-4A154B.svg?style=for-the-badge&logo=slack&logoColor=fffff" />
   <img src="https://img.shields.io/badge/GIT-F05032.svg?style=for-the-badge&logo=git&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/GITHUB-181717.svg?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/KALI LINUX-557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/INTELIJ IDEA-101010.svg?style=for-the-badge&logo=intellijidea&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/SONACLOUD-F3702A.svg?style=for-the-badge&logo=sonarcloud&logoColor=ffffff" />

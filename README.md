@@ -43,3 +43,11 @@
   <img src="https://img.shields.io/badge/DOCKER-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/DAVINCIRESOLVE-233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=ffffff" />
 </div>
+
+<br/><br/><br/>
+<div align="center">
+  <h2>✨Awards & Certifications ✨</h2>
+  <h4>🖋️TOPCIT 3수준</h2>
+  <h4>📄정보처리기사</h2>
+  <h4>🏆2023 한이음 ICT 멘토링 공모전 한국정보산업연합회장상</h2>
+  </div>
